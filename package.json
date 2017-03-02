@@ -10,11 +10,15 @@
   "license": "ISC",
   "devDependencies": {
     "assert": "^1.4.1",
+    "css-loader": "^0.26.2",
+    "dom-builder": "^1.0.4",
     "gulp": "^3.9.1",
     "gulp-cli": "^1.2.2",
     "gulp-less": "^3.3.0",
     "gulp-sourcemaps": "^2.4.1",
+    "gulp-util": "^3.0.8",
     "gulp-watch": "^4.3.11",
-    "mocha": "^3.2.0"
+    "mocha": "^3.2.0",
+    "style-loader": "^0.13.2"
   }
 }

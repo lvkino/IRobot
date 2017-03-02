@@ -1,0 +1,14 @@
+<svg width="440" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" viewBox="-40 -140 512 512">
+    <g>
+        <title>Layer 1</title>
+        <rect fill="#ffffff" stroke="#a4c639" stroke-width="10" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="71.45763" y="3.56497" width="113" height="43" id="svg_4" rx="10" ry="10"></rect>
+        <rect fill="#ffffff" stroke="#a4c639" stroke-width="10" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="254.49999" y="4.11582" width="113" height="43" rx="10" ry="10" id="svg_5"></rect>
+        <rect fill="#ffffff" stroke-width="10" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="-21.70797" y="103.70797" width="83" height="31.58407" rx="10" ry="10" id="svg_15" stroke="#a4c639" transform="rotate(90 19.792030334472646,119.50000000000001) "></rect>
+        <rect stroke="#a4c639" fill="#ffffff" stroke-width="10" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="379.00001" y="103.70797" width="83" height="31.58407" rx="10" ry="10" id="svg_16" transform="rotate(90 420.5,119.50000000000004) "></rect>
+        <rect stroke="#a4c639" fill="#ffffff" stroke-width="10" x="21.00001" y="38" width="397.99999" height="158.999977" id="svg_2" rx="35" ry="35" stroke-linejoin="round"></rect>
+        <circle fill="#ffffff" stroke="#a4c639" stroke-width="10" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="null" cx="270.33191" cy="72.93362" r="9.72014" id="svg_6"></circle>
+        <line fill="none" stroke-width="10" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="null" x1="169" y1="79" x2="219.21576" y2="129.21576" id="svg_10" stroke="#a4c639"></line>
+        <line fill="none" stroke-width="10" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="null" x1="217.39212" y1="79.39212" x2="267.60788" y2="129.60788" stroke="#a4c639" id="svg_11" transform="rotate(90 242.5,104.50000000000003) "></line>
+        <circle fill="#ffffff" stroke="#a4c639" stroke-width="10" stroke-dasharray="null" stroke-linejoin="round" stroke-linecap="null" cx="170.33191" cy="72.93362" r="9.72014" id="svg_14"></circle>
+    </g>
+</svg>
