@@ -37,3 +37,6 @@ r.report();
 $ npm install
 $ npm test
 ```
+
+## Demo
+[Demo link](https://jsfiddle.net/lvkino/3y58zqbo/)
