@@ -68,7 +68,7 @@ function robotUI(){
 					);
 
 		// Add robot svg object
-		$robot = $dom.create('object').attr('data','static/img/robot.svg').attr('type','image/svg+xml').cls('robot-image');
+		$robot = $dom.create('object').attr('data','https://cdn.rawgit.com/lvkino/IRobot/master/static/img/robot.svg').attr('type','image/svg+xml').cls('robot-image');
 
 		$dom(table.toDom().children[0].children[0]).append(
 			$robot

@@ -63,17 +63,15 @@
 /******/ 	__webpack_require__.p = "";
 
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 9);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ([
-/* 0 */,
-/* 1 */,
-/* 2 */
+/* 0 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var robotBuilder = __webpack_require__(5),
-	$dom = __webpack_require__(4);
+var robotBuilder = __webpack_require__(2),
+	$dom = __webpack_require__(1);
 
 
 function robotUI(){
@@ -142,7 +140,7 @@ function robotUI(){
 					);
 
 		// Add robot svg object
-		$robot = $dom.create('object').attr('data','static/img/robot.svg').attr('type','image/svg+xml').cls('robot-image');
+		$robot = $dom.create('object').attr('data','https://cdn.rawgit.com/lvkino/IRobot/master/static/img/robot.svg').attr('type','image/svg+xml').cls('robot-image');
 
 		$dom(table.toDom().children[0].children[0]).append(
 			$robot
@@ -315,8 +313,7 @@ catch (ex)
 {}
 
 /***/ }),
-/* 3 */,
-/* 4 */
+/* 1 */
 /***/ (function(module, exports) {
 
 /**
@@ -462,7 +459,7 @@ var FluentDom = (function(){
 module.exports = FluentDom;
 
 /***/ }),
-/* 5 */
+/* 2 */
 /***/ (function(module, exports) {
 
 
@@ -618,13 +615,10 @@ catch (ex)
 {}
 
 /***/ }),
-/* 6 */,
-/* 7 */,
-/* 8 */,
-/* 9 */
+/* 3 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var robotUI = __webpack_require__(2);
+var robotUI = __webpack_require__(0);
 
 
 window.addEventListener('load', function(){
