@@ -1,6 +1,9 @@
 # IRobot
 This application allow a robot to roam on a square table, preventing it to fall down
 
+## Demo
+[Demo link](https://jsfiddle.net/lvkino/3y58zqbo/)
+
 ## Installation
 
 In a browser:
@@ -37,6 +40,3 @@ r.report();
 $ npm install
 $ npm test
 ```
-
-## Demo
-[Demo link](https://jsfiddle.net/lvkino/3y58zqbo/)
